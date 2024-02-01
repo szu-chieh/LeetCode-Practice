@@ -17,6 +17,10 @@ class Solution {
         // - 則當快指標走到末端停下時，slow的下一個節點就是要刪除的middle node
         // - slow的next指向下下一個節點即為刪除
 
+        //  dummy | head | node2 | node3 | ...
+        //    ⭡⭡
+        //    sf
+
         ListNode dummy = new ListNode(0, head);
         ListNode slow = dummy;
         ListNode fast = dummy;
