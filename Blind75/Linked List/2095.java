@@ -18,8 +18,8 @@ class Solution {
         // - slow的next指向下下一個節點即為刪除
 
         //  dummy | head | node2 | node3 | ...
-        //    ⭡⭡
-        //    sf
+        //   ⭡⭡
+        //   sf
 
         ListNode dummy = new ListNode(0, head);
         ListNode slow = dummy;
