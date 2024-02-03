@@ -12,6 +12,7 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
 
+        // 實際步驟：
         // - 紀錄當前(curr)以及前一個(previousNode)節點
         // - 使用nextNode保存下一個要處理的節點
         // - 將curr的下一個節點指向原本的previousNode

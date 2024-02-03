@@ -11,7 +11,8 @@
 
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-
+        
+        // 實際步驟：
         // - 創建一個虛擬原點指向原本的head
         // - 使用快指標和慢指標，其中快指標以慢指標的兩倍速度走訪linked list
         // - 則當快指標走到末端停下時，slow的下一個節點就是要刪除的middle node
