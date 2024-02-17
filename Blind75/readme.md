@@ -10,11 +10,11 @@
         - 當兩個asteroid相碰時，尺寸小的爆炸，若相等則兩個一起爆炸  
         - 並且兩個同方向的asteroid永遠不會接觸到彼此  
 ### Queue
-(Easy) [2390. Removing Stars From a String](https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75) / [*solution*](./Queue/2390.java) 
-    題目簡述：
+(Easy) [2390. Removing Stars From a String](https://leetcode.com/problems/number-of-recent-calls/?envType=study-plan-v2&envId=leetcode-75) / [*solution*](./Queue/2390.java)   
+    題目簡述：  
         - 使用.ping(t)於時間t時進行一次請求，並回傳近3000ms的請求數量
 (Medium) [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/?envType=study-plan-v2&envId=leetcode-75) 
-/ [*solution*](./Queue/649.java)  
+/ [*solution*](./Queue/649.java)   
     題目簡述：  
         - 有n個人(來自Dota的兩個隊伍)以round-robin的方式進行投票  
         - 每個senator可以選擇下列其中一種權力：  
