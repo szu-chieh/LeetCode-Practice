@@ -24,6 +24,6 @@
     -   假設隊伍成員皆不會跳票，並且一定會行使自身權力，輸出最終勝利的隊伍名稱
 ### Binary Tree
 (Easy) [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/?envType=study-plan-v2&envId=leetcode-75) / [*solution*](./Tree/700.java)  
-    題目簡述：
-    -   給予一個root和一個整數val，找出樹中值等於val的節點，並返回以該節點為root的子樹
-    -   note: 根據TreeNode的定義，只需回傳root即可得到整個子樹
+    題目簡述：  
+    -   給予一個root和一個整數val，找出樹中值等於val的節點，並返回以該節點為root的子樹  
+    -   note: 根據TreeNode的定義，只需回傳root即可得到整個子樹  
